@@ -3,6 +3,20 @@
 ## Summary
 A dedicated data scientist with 3 years of experience in consulting, data engineering, and software development. Adept at applying data science methodologies to solve complex business problems, with a background in image processing and computer vision. Currently pursuing an MS in Data Science at Indiana University Bloomington, with a focus on advancing my technical expertise and exploring research opportunities.
 
+## Education
+
+### **Master of Science in Data Science | Indiana University Bloomington**
+**Duration:** August 2024 - Present
+
+- Engaging in advanced coursework and research in data science, with plans to seek TA/RA positions leveraging my experience.
+
+### **Bachelor of Technology in Electronics and Communication | Manipal Institute of Technology**
+**Minor:** Data Science  
+**Notable Project:** Online Sign Verification System  
+- Developed a machine learning model to assess the validity of online signatures based on features like x-y direction, velocity, and pressure.
+
+
+
 ## Professional Experience
 
 ### **Consultant | Deloitte USI - Strategy & Analytics Division**
@@ -22,18 +36,6 @@ A dedicated data scientist with 3 years of experience in consulting, data engine
 - **Discord Notification Service:** Built a custom notification service for Discord, integrating various functionalities.
 - **University Assistant Chatbot:** Developed a chatbot to assist university students with common queries and tasks.
 
-## Education
-
-### **Master of Science in Data Science | Indiana University Bloomington**
-**Duration:** August 2024 - Present
-
-- Engaging in advanced coursework and research in data science, with plans to seek TA/RA positions leveraging my experience.
-
-### **Bachelor of Technology in Electronics and Communication | Manipal Institute of Technology**
-**Minor:** Data Science  
-**Notable Project:** Online Sign Verification System  
-- Developed a machine learning model to assess the validity of online signatures based on features like x-y direction, velocity, and pressure.
-
 ## Certifications & Publications
 - [List relevant certifications and publications here]
 
@@ -44,12 +46,6 @@ A dedicated data scientist with 3 years of experience in consulting, data engine
 - **Techniques:** Machine Learning, Image Processing, Computer Vision
 - **Other Skills:** ETL processes, Data Engineering, Data Visualization
 
-## Leadership & Sports Achievements
-
-- **Leadership Roles:** Captained school cricket and football teams; led middle school football team to multiple tournament victories.
-- **College Representation:** Represented college in inter-college football tournaments.
-- **Awards:** Secured 8 medals in a single sports day, demonstrating teamwork, leadership, and competitive spirit.
-
 ## Personal Interests
 
 - **Virtual Reality Enthusiast:** Owner of a Meta Oculus 2, with a keen interest in exploring VR technologies.
@@ -57,7 +53,6 @@ A dedicated data scientist with 3 years of experience in consulting, data engine
 - **Languages:** English, Hindi, German
 
 ## Contact Information
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-
+- **Email:** [hagupta@iu.edu](mailto:hagupta@iu.edu)
+- **LinkedIn:** [https://www.linkedin.com/in/harshg1347/](https://www.linkedin.com/in/harshg1347/)
+- **GitHub:** [Harsh1347](https://github.com/Harsh1347)
